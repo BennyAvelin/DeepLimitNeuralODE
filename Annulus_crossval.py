@@ -1,6 +1,6 @@
 ###############################################################################
 # Author: Benny Avelin                                                        #
-# Date: 2019-04-15                                                            #
+# Date: 2019-08-14                                                            #
 # Project: DeepLimit                                                          #
 #                                                                             #
 # Purpose: This code file will run a cross validated test of a finite layer   #
